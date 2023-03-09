@@ -1,0 +1,6 @@
+.container {
+    display: inline-flexbox;
+    flex-direction: column;
+    max-width: 400px;
+    
+}
